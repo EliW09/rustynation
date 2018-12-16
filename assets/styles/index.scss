@@ -1,0 +1,60 @@
+@import '~bootstrap/scss/bootstrap';
+
+body {
+    background: url('../../public/background.png') no-repeat 50% 50% fixed;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+.navbar {
+    background: rgba(34, 34, 34, 0.6);
+    color: rgb(33, 88, 240);
+    border-bottom: 2px solid rgb(33, 88, 240);
+    font-size: 22px;
+  }
+
+.navbar a {
+    padding: 10px;
+}
+
+.navbar .white {
+    color: #fff;
+}
+
+.topbar {
+    justify-content: center;
+    text-align: center;
+    height: 760px;
+    position: relative;
+    margin: auto;
+    padding: 21% 0 0 0;
+    color: white;
+}
+
+.topbar i {
+    font-size: 60px;
+    text-align: center;
+    color: rgb(33, 88, 240);
+    padding: 14% 0 0 0;
+}
+
+.content {
+    border-top: 2px solid rgb(33, 88, 240);
+    background: #222222;
+    height: 550px;
+    color: #fff;
+    text-align: center;
+    padding: 2% 0 0 0;
+}
+
+#serv .smessage {
+    font-size: 26px;
+}
+
+.s1, .s2, .s3 {
+    padding: 1%;
+}
+
+#name {
+    font-size: 52px;
+    color: #fff;
+}
