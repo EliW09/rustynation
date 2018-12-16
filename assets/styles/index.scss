@@ -1,7 +1,7 @@
 @import '~bootstrap/scss/bootstrap';
 
 body {
-    background: url('../../public/background.png') no-repeat 50% 50% fixed;
+    background: url('https://raw.githubusercontent.com/eliw09/rustynation/master/public/background.png') no-repeat 50% 50% fixed;
     font-family: 'ZCOOL KuaiLe', cursive;
 }
 
@@ -26,7 +26,7 @@ body {
     height: 760px;
     position: relative;
     margin: auto;
-    padding: 21% 0 0 0;
+    padding: 16% 0 0 0;
     color: white;
 }
 
@@ -34,7 +34,7 @@ body {
     font-size: 60px;
     text-align: center;
     color: rgb(33, 88, 240);
-    padding: 14% 0 0 0;
+    padding: 7% 0 0 0;
 }
 
 .content {
